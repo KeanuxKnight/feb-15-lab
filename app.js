@@ -2,13 +2,11 @@
 function  sum(N1, N2) {
   //console.log('sum is' + sum);
    return N1 + N2;
-
 }
 
 function multiply(N1, N2) {
   //console.log('the total is' + );
   return N1 * N2;
-
 }
 
 function sumAndMultiply(N1, N2, N3) {

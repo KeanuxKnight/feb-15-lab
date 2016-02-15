@@ -3,7 +3,6 @@ function  sum(N1, N2) {
   //console.log('sum is' + sum);
    return N1 + N2;
 
-<<<<<<< HEAD
 }
 
 function multiply(N1, N2) {
@@ -12,16 +11,6 @@ function multiply(N1, N2) {
 
 }
 
-=======
-}
-
-function multiply(N1, N2) {
-  //console.log('the total is' + );
-  return N1 * N2;
-
-}
-
->>>>>>> be224be86d29dd6d0dc86719a7a239c7151749d6
 function sumAndMultiply(N1, N2, N3) {
   var sum3 = sum(sum(N1, N2), N3)
   console.log(sum3);
@@ -39,8 +28,3 @@ function sumArray(numArray) {
     }
   return totalSoFar
   }
-<<<<<<< HEAD
-=======
-
-  
->>>>>>> be224be86d29dd6d0dc86719a7a239c7151749d6
